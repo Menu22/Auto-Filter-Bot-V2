@@ -1,5 +1,0 @@
-Pyrogram
-TgCrypto
-umongo
-dnspython
-
